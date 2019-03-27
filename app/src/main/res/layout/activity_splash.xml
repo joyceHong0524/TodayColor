@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pastel_background"
+    >
+
+    <TextView
+        android:id="@+id/app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-thin"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:textSize="50sp"
+        android:text="Today Color"
+        android:textColor="@color/white"
+        android:layout_marginLeft="20sp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-thin"
+        android:layout_below="@+id/app"
+        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:text="Pick a color for today"
+        android:layout_marginLeft="40sp"
+        />
+
+</RelativeLayout>

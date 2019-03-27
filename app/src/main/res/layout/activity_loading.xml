@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/loading_background"
+    android:orientation="vertical">
+
+    <ImageView
+        android:contentDescription="@string/app_name"
+        android:id="@+id/gif"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:id="@+id/saying"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/gif"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-thin"
+        android:textSize="@dimen/text_large" />
+    <TextView
+        android:id="@+id/arthor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/saying"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="sans-serif-thin"
+        android:layout_marginTop="@dimen/spacing_small"
+        />
+</RelativeLayout>

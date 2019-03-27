@@ -1,0 +1,53 @@
+<resources>
+
+    //app name
+    <string name="app_name">Color me Today</string>
+
+    //color name
+    <string name="red">Red</string>
+    <string name="blue">Navy</string>
+    <string name="pastel">Pastel</string>
+    <string name="black">Black</string>
+    <string name="purple">Purple</string>
+    <string name="yellow">Yellow</string>
+    <string name="cream">Cream</string>
+    <string name="green">Green</string>
+    <string name="pink">Pink</string>
+    <string name="brown">Brown</string>
+    <string name="orange">Orange</string>
+
+
+    //situation description
+    <string name="going_date_red">Most experts agree red is the color of passion.Research psychologist Richard G.Lewis says
+        red color can have a physical impact by making pressure, pulse, and respiratory rates increase. And he also said that red promotes images and emotions of excitement, drama, urgent passion, strengths, assertiveness, and is an appetite stimulant</string>
+    <string name="going_interview_blue">
+        You do not want to be remembered for your attire; if you wear a very brightly colored suit or dress,
+        you will almost certainly be remembered for your outfit (rather than your job qualifications). Neutral colors
+        – navy, gray, black, and brown – are the best colors for a job interview. And Blue, especially navy, convey feelings
+        of calm, trust, and confidence.
+    </string>
+    <string name="going_wedding_pastel">You can not really go wrong when it comes to choosing an outfit that falls within a pastel color pallet.
+    The best part is that pastels look great on your skin tone. Pastels are a soft and warm way to show your support for the bride and groom,
+    without becoming the focus of everyone\'s attention</string>
+    <string name="going_funeral_black">Traditionally, funeral clothes should be black. However, not everyone adheres strictly to this tradition anymore. It is not uncommon to see people wearing shades like dark gray or navy blue to a funeral. And you need to be aware of sleeve length. It’s best to avoid sleeveless outfits to funeral and even if you have a sleeveless black dress cover with a shawl or shrug.</string>
+    <string name="going_court_cream">Generally, in a criminal case, the goal is to look as young and innocent as possible. And not too bright cream color clothes will help you
+convey your innocence. Jane Murdoch Miller, a Virginia-based image consultant said, “There’s no question, people respond emotionally before they respond intellectually, and we can use clothing as a tool to create the response we want.” Don’t wear anything too tight, too short or too revealing. Most importantly, be as neat as you can.</string>
+
+
+    //feeling description
+    <string name="want_attention_red">Want to get someone\’s attention? Red is your color! The color red empowers and draws attention toward the wearer. It\’s also strongly associated with romance and passion, making it a perfect date-night color. But be careful – it\’s also been said that red stimulates the appetite and makes us hungry for junk food, so wear with caution if you\’re trying to eat healthier.</string>
+    <string name="when_stressed_green">Shades of green are calm and soothing, as well as associated with nature and the outdoors. Tha\t’s why green is such a popular spring shade. Green is also refreshing and has been found to reduce stress in those who look at it. If you\’re feeling really overwhelmed during finals week, add green to your outfit and you might feel more relaxed.</string>
+    <string name="decision_making_purple">Regal and sophisticated, purple is associated with creativity and luxury. Like red, purple is a very stimulating color which can boost your energy level when you see it. It\’s also a color that\’s sometimes associated with spirituality and intuition, so if you\’re having trouble making a decision, wear purple and see what comes to you.</string>
+    <string name="need_energy_pink">Of course we all know pink as the true girly-girl\’s favorite color, but it\’s also associated with romance and happiness. Pink is very calming, so don\’t wear it if you need tons of energy. Because of its romance association, pink is a good choice for a date. You can also wear it anytime you\’re a little bummed out for a boost. Of course, if you personally hate pink, then that won\’t work for you.</string>
+    <string name="feeling_sad_yellow">Are you feeling sad and depressed these day? The colour yellow might brings you brightness, light, vitality, energy, optimism, willingness to grow and outshine. And also, yellow\'s mood improving qualities could be assumed to help seasonal affective disorder </string>
+
+    //season description
+    <string name="spring">The seasonal colors of spring are much like the season itself - light, airy hues that are comprised of pastel versions of the colors of the rainbow. Inspired by the melting snow that brings the first blooms of the season and traditional Easter tones.</string>
+    <string name="summer">Summer colors are all about vibrant, rich and bold colors - take inspiration from the sunshine, ocean and summer blooms. Have fun in the sun by embracing these bold colors, but don\'t forget to integrate plenty of white as well - it\'s the official \'non-color\' of the summer season, from Memorial Day through Labor Day.Light Orange with white will be the perfect outfit for you.</string>
+    <string name="fall">Fall colors emulate the changing colors of the leaves and nature. Along with the rich hues of autumn, Fall marks a shift toward more neutral tones as colors fade away from the outdoors and give way to the grays and creams of winter. In fall, browns, ranging from Khaki and Camel to a deep Mahogany and Espresso will be the perfect option for you.</string>
+    <string name="winter">In nature, winter marks the absence of color - fiery fall leaves are replaced by bare trees and snow covers the ground. Likewise, traditional seasonal colors for winter are neutrals, punctuated by deep, rich jewel tones that are representative of the festive nature of the holidays. In this season clothes of cream color will give you the calm and soothing sense of winter.</string>
+
+    //color of the date
+    <string name="story_description">Did you know that all thais know their exact birth day of the week, i.e. Sunday, Mondtay, etc. It’s related to Buddhist belief(based on Hindu mythology) that there is a diffrent God who protects each day. And there is also a color associated with each god or day. As King Bhumibol and his son were born on Mondays, Thailand is decorated with yellow on their birthdays. Do you want to know what is the lucky color of today? Click the button below.</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //app name
+    <string name="app_name">Color me Today</string>
+
+    //color name
+    <string name="red">빨강</string>
+    <string name="blue">네이비</string>
+    <string name="pastel">파스텔</string>
+    <string name="black">검정</string>
+    <string name="purple">보라</string>
+    <string name="yellow">노랑</string>
+    <string name="cream">크림</string>
+    <string name="green">초록</string>
+    <string name="pink">핑크</string>
+    <string name="brown">갈색</string>
+    <string name="orange">오렌지</string>
+
+    //color description of each situation
+    <string name="going_wedding_pastel">결혼식장은 신부가 하얀 웨딩드레스 안에서 가장 돋보여야 하는 날입니다. 만약 당신이 파스텔 톤 옷을 고른다면 절대 실패할 일이 없습니다. 예를들어 페일 핑크, 라이트 퍼플, 페일 블루와 같은 파스텔 톤의 색깔의 원피스를 입는다면 결혼식장의 분위기에 녹아들어 신랑 신부에게 하이라이트를 비춰줄 수 있을 겁니다. 물론 옷을 입은 자신 역시 화사한 파스텔톤 색감을 통해 밝고 활기찬 느낌을 줄 수 있습니다.</string>
+    <string name="going_interview_blue">파란색, 특히 네이비 색은 인터뷰 복장 색깔로 안성맞춤인 색입니다. 파란 색은 안정감, 신뢰, 자신감을 상징하는 색으로써 면접관에게 좋은 인상을 심어줄 수 있습니다. 면접시에는 강렬하고 채도가 짙은 색은 피해야하는데요, 자칫하면 면접관이 당신의 스킬이나 자질이 아닌 옷 색깔로 기억할 수 있기 때문입니다. 검은색, 하얀색, 연한 갈색, 회색과 같은 뉴트럴한 색 또한 면접을 볼 때 좋은 인상을 심어줄 수 있습니다.</string>
+    <string name="going_date_red">심리 연구가 Richard G.Lewis는 빨간색이 심장 박동과 호흡수를 증가시키는 신체적인 반응을 일으킨다고 했습니다. 빨간 색은 상대로 하여금 흥미나 자극을 이끌어 낼 수 있는 색입니다. 첫 데이트에 가장 좋은 색이라고 할 수 있죠. 명도가 높은 새빨간 색이 부담스럽다면 짙은 버건디 색 또한 좋은 선택이 될 것입니다.</string>
+    <string name="going_funeral_black"></string>
+    <string name="going_court_cream"></string>
+
+    //feeling description
+    <string name="want_attention_red"></string>
+    <string name="when_stressed_green"></string>
+    <string name="feeling_sad_yellow"></string>
+    <string name="need_energy_pink"></string>
+    <string name="decision_making_purple"></string>
+    //color of the date.
+    <string name="story_description"></string>
+
+
+    //color of the season
+
+    <string name="spring">The seasonal colors of spring are much like the season itself - light, airy hues that are comprised of pastel versions of the colors of the rainbow. Inspired by the melting snow that brings the first blooms of the season and traditional Easter tones.</string>
+    <string name="summer">Summer colors are all about vibrant, rich and bold colors - take inspiration from the sunshine, ocean and summer blooms. Have fun in the sun by embracing these bold colors, but don\'t forget to integrate plenty of white as well - it\'s the official \'non-color\' of the summer season, from Memorial Day through Labor Day.Light Orange with white will be the perfect outfit for you.</string>
+    <string name="fall">Fall colors emulate the changing colors of the leaves and nature. Along with the rich hues of autumn, Fall marks a shift toward more neutral tones as colors fade away from the outdoors and give way to the grays and creams of winter. In fall, browns, ranging from Khaki and Camel to a deep Mahogany and Espresso will be the perfect option for you.</string>
+    <string name="winter"></string>
+</resources>
